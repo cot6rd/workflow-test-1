@@ -1,2 +1,2 @@
-def foo():
-    print('None of your buisiness.')
+def foo(a, b):
+    return a + b
